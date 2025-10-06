@@ -1,7 +1,0 @@
-autogen-core
-autogen-ext[openai]
-dataclasses
-aiofiles
-dotenv
-pandas
-openai
